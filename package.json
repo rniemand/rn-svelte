@@ -1,6 +1,20 @@
 {
 	"name": "rn-svelte",
 	"version": "0.0.1",
+	"description": "A reusable Svelte component library",
+	"keywords": [
+		"components",
+		"documentation",
+		"Svelte",
+		"SvelteKit"
+	],
+	"homepage": "https://github.com/rniemand/rn-svelte",
+	"license": "MIT",
+	"author": {
+		"name": "Richard Niemand",
+		"url": "https://www.richardn.ca/"
+	},
+	"repository": "github:rniemand/rn-svelte",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
