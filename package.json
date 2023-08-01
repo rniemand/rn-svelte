@@ -1,6 +1,6 @@
 {
 	"name": "rn-svelte",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"description": "A reusable Svelte component library",
 	"keywords": [
 		"components",
